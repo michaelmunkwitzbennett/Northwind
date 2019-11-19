@@ -1,0 +1,9 @@
+﻿body {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.toast {
+    position: fixed;
+    top: 65px;
+    right: 10px;
+}
